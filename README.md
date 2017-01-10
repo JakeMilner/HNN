@@ -2,7 +2,7 @@
 Hopfield Neural Network for CS331
 # Running
 To execute in terminal:<br>
-python Main.py<br>
+python Main.py<br><br>
 HopfieldNetwork.py contains methods<br>
 [Inhibition constant]
 # References
